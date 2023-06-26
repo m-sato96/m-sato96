@@ -1,16 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋%20Hello!!%20&fontSize=30&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👋%20初めまして!%20&fontSize=30&fontAlignY=38)
 
 <h2>私について 🤝</h2>
 &thinsp;
- <p>
-    Hello! Thank you so much for coming my Github.
-    <br>I'm Sato, and I work as an engineer in Japan.
-  </p>
 
   <p>
-    こんにちは！フルリモートでwebエンジニアをしている佐藤です。<br>
+    2021年からwebエンジニアをしている佐藤です。<br>
     ReactやTypeScriptなどでのフロントエンド開発と、<br>
     副業ではUI/UX/webデザイナーとしても活動しています🧑🏻‍💻
   </p>
@@ -33,8 +29,7 @@
 
 <h2>技術記事 ✍🏻</h2>
 &thinsp;
-
-<a href="https://qiita.com/__knm__" target="_blank" rel="noopener noreferrer">Qiita</a>
+<a href="https://qiita.com/__knm__" target="_blank" rel="noopener noreferrer">Qiita</a>　
 <a  href="https://zenn.dev/knm" target="_blank" rel="noopener noreferrer">Zenn</a>
 &thinsp;
 
