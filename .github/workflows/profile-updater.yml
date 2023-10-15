@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: kumackey/profile-updater@v1
         with:
-          zenn_user_id: knm
           qiita_user_id: __knm__
       - name: Commit and push
         run: |
