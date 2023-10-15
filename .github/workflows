@@ -1,0 +1,24 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README with Zenn and Qiita articles
+      run: |
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "action@github.com"
+        git add README.md
+        git commit -m "Update README with Zenn and Qiita articles" || true
+        git push
